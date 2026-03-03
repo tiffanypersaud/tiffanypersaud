@@ -1,59 +1,53 @@
-# Hi, I'm Tiffany 👋
+# Hi, I'm Tiffany Persaud 👋
 
-🎓 Information Technology graduate from WGU  
-📊 Aspiring Data Analyst  
-💡 Interested in Business Intelligence, Data Visualization, and Analytics
+🎓 Information Technology Graduate – Western Governors University
+📊 Aspiring Data Analyst | Business Intelligence Enthusiast
+💡 Interested in Data Analytics, Visualization, and Data-Driven Decision Making
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- SQL
-- Excel
-- Power BI
-- Data Visualization
-- Data Analysis
-- Business Intelligence
+* SQL
+* Microsoft Excel
+* Power BI
+* Data Visualization
+* Data Analysis
+* Business Intelligence
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Analytics Projects
 
 ### 🏥 Healthcare Operations Analytics
-End-to-end healthcare analytics project analyzing operational KPIs including cost, efficiency, readmissions, and patient satisfaction.
 
-Tools used:
-- Excel
-- SQL
-- Power BI
+End-to-end healthcare analytics project analyzing operational KPIs including treatment cost, patient encounters, readmission rates, length of stay, and patient satisfaction.
 
-Repository:
+**Tools Used:** Excel • SQL • Power BI
+
+🔗 Repository:
 https://github.com/tiffanypersaud/healthcare-operations-analytics
 
 ---
 
 ### 🛍 Ecommerce Sales Dashboard
-Business intelligence project analyzing ecommerce sales performance, profit, and category trends.
 
-Tools used:
-- SQL
-- Power BI
-- Excel
+Sales analytics project exploring revenue trends, category performance, and profitability using SQL queries and Power BI dashboards.
 
-Repository:
+**Tools Used:** Excel • SQL • Power BI
+
+🔗 Repository:
 https://github.com/tiffanypersaud/ecommerce-sales-dashboard
 
 ---
 
 ### 👗 Fashion Retail Customer Analysis
-Customer analytics project exploring purchasing behavior, category trends, and discount usage.
 
-Tools used:
-- Excel
-- SQL
-- Power BI
+Customer behavior analysis project examining purchasing patterns, discount usage, and product category trends.
 
-Repository:
+**Tools Used:** Excel • SQL • Power BI
+
+🔗 Repository:
 https://github.com/tiffanypersaud/fashion-retail-customer-analysis
 
 ---
