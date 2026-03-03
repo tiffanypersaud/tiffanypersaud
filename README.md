@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Tiffany 👋
 
-<!--
-**tiffanypersaud/tiffanypersaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology graduate from WGU  
+📊 Aspiring Data Analyst  
+💡 Interested in Business Intelligence, Data Visualization, and Analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+
+- SQL
+- Excel
+- Power BI
+- Data Visualization
+- Data Analysis
+- Business Intelligence
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Healthcare Operations Analytics
+End-to-end healthcare analytics project analyzing operational KPIs including cost, efficiency, readmissions, and patient satisfaction.
+
+Tools used:
+- Excel
+- SQL
+- Power BI
+
+Repository:
+https://github.com/tiffanypersaud/healthcare-operations-analytics
+
+---
+
+### 🛍 Ecommerce Sales Dashboard
+Business intelligence project analyzing ecommerce sales performance, profit, and category trends.
+
+Tools used:
+- SQL
+- Power BI
+- Excel
+
+Repository:
+https://github.com/tiffanypersaud/ecommerce-sales-dashboard
+
+---
+
+### 👗 Fashion Retail Customer Analysis
+Customer analytics project exploring purchasing behavior, category trends, and discount usage.
+
+Tools used:
+- Excel
+- SQL
+- Power BI
+
+Repository:
+https://github.com/tiffanypersaud/fashion-retail-customer-analysis
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/tiffany-persaud-158084283/
