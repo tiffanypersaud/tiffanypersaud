@@ -1,10 +1,10 @@
 # Hi, I'm Tiffany Persaud 👋
 
-🎓 Information Technology Graduate 
+🎓 Information Technology Graduate
 
-📊 Aspiring Data Analyst | Business Intelligence Enthusiast
+📊 Data Analyst | SQL • Excel • Power BI
 
-💡 Interested in Data Analytics, Visualization, and Data-Driven Decision Making
+💡 Interested in Data Analytics, Data Visualization, and Data-Driven Decision Making
 
 ---
 
