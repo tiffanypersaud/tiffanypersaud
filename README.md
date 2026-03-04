@@ -4,8 +4,7 @@
 
 📊 Data Analyst | SQL • Excel • Power BI
 
-💡 Interested in Data Analytics, Data Visualization, and Data-Driven Decision Making
-
+💡 Focused on Data Analytics, Visualization, and Data-Driven Decision Making
 ---
 
 ## 🛠 Tools & Technologies
